@@ -1,0 +1,11 @@
+/Users/keremyilmaz/Desktop/isokutuphanesi/bin/Release/net8.0/Isokutuphanesi.deps.json
+/Users/keremyilmaz/Desktop/isokutuphanesi/bin/Release/net8.0/Isokutuphanesi.dll
+/Users/keremyilmaz/Desktop/isokutuphanesi/bin/Release/net8.0/Isokutuphanesi.pdb
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.AssemblyInfoInputs.cache
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.AssemblyInfo.cs
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.csproj.CoreCompileInputs.cache
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.dll
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/refint/Isokutuphanesi.dll
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/Isokutuphanesi.pdb
+/Users/keremyilmaz/Desktop/isokutuphanesi/obj/Release/net8.0/ref/Isokutuphanesi.dll

@@ -1,0 +1,15 @@
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.AssemblyInfoInputs.cache
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.AssemblyInfo.cs
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.csproj.CoreCompileInputs.cache
+/Users/keremyilmaz/Desktop/toplamayap/bin/Debug/net8.0/Toplamayap.deps.json
+/Users/keremyilmaz/Desktop/toplamayap/bin/Debug/net8.0/Toplamayap.dll
+/Users/keremyilmaz/Desktop/toplamayap/bin/Debug/net8.0/Toplamayap.pdb
+/Users/keremyilmaz/Desktop/toplamayap/bin/Debug/net8.0/isokutuphanesi.dll
+/Users/keremyilmaz/Desktop/toplamayap/bin/Debug/net8.0/isokutuphanesi.pdb
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.csproj.AssemblyReference.cache
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.csproj.Up2Date
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.dll
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/refint/Toplamayap.dll
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.pdb
+/Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/ref/Toplamayap.dll

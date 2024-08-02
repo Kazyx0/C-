@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="isokutuphanesi">
+      <HintPath>..\isokutuphanesi\bin\Release\net8.0\isokutuphanesi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
+
+
+

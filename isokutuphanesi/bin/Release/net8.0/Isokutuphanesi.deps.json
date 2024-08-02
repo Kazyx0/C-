@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Isokutuphanesi/1.0.0": {
+        "runtime": {
+          "Isokutuphanesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Isokutuphanesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

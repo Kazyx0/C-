@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Genel proje ayarlarını belirleyen PropertyGroup -->
+  <PropertyGroup>
+    <!-- Derleme adı, çıktıda kullanılacak isim -->
+    <AssemblyName>toplamayap</AssemblyName>
+    <!-- Derleme bilgisi (AssemblyInfo) dosyasının otomatik olarak üretilmesini devre dışı bırakır -->
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <!-- Çıktı türünü belirler, bu durumda bir uygulama (Exe) -->
+    <OutputType>Exe</OutputType>
+    <!-- Hedef framework, uygulamanın hangi .NET sürümüne uygun olduğunu belirtir -->
+    <TargetFramework>netcoreapp8.0</TargetFramework>
+  </PropertyGroup>
+  
+  <!-- C# dilinin sürümünü ve tehlikeli kod bloklarının kullanımına izin verme ayarları -->
+  <PropertyGroup>
+    <!-- C# dilinin sürümü, bu durumda 11.0 -->
+    <LangVersion>11.0</LangVersion>
+    <!-- Tehlikeli kod bloklarına (unsafe) izin verir -->
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  
+  <!-- Boş PropertyGroup, projeye özel ek ayarlar için kullanılabilir -->
+  <PropertyGroup />
+  
+  <!-- Boş ItemGroup, proje öğeleri için kullanılabilir -->
+  <ItemGroup />
+  
+  <!-- Proje referanslarını belirtir -->
+  <ItemGroup>
+    <!-- System.Console referansı, bu projede konsol ile ilgili işlevleri kullanmak için -->
+    <Reference Include="System.Console" />
+    <!-- 'Isokutuphanesi' adlı bir derlemeye referans, bu projede kullanılmak üzere -->
+    <Reference Include="Isokutuphanesi" />
+  </ItemGroup>
+</Project>
