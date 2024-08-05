@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.csproj": {}
+    "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/toplamayap.csproj": {}
   },
   "projects": {
-    "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.csproj": {
+    "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/toplamayap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.csproj",
+        "projectUniqueName": "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/toplamayap.csproj",
         "projectName": "toplamayap",
-        "projectPath": "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.csproj",
+        "projectPath": "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/toplamayap.csproj",
         "packagesPath": "/Users/keremyilmaz/.nuget/packages/",
-        "outputPath": "/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/",
+        "outputPath": "/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keremyilmaz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "netcoreapp8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
+            "targetAlias": "netcoreapp8.0",
             "projectReferences": {}
           }
         },
@@ -36,7 +36,7 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
+          "targetAlias": "netcoreapp8.0",
           "imports": [
             "net461",
             "net462",

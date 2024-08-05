@@ -13,3 +13,11 @@
 /Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/refint/Toplamayap.dll
 /Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/Toplamayap.pdb
 /Users/keremyilmaz/Desktop/toplamayap/obj/Debug/net8.0/ref/Toplamayap.dll
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.csproj.AssemblyReference.cache
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.AssemblyInfoInputs.cache
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.AssemblyInfo.cs
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.csproj.CoreCompileInputs.cache
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.dll
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/refint/toplamayap.dll
+/Users/keremyilmaz/Desktop/Staj/toplamayap/obj/Debug/net8.0/toplamayap.pdb
