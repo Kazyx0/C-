@@ -8,7 +8,7 @@
     <!-- Çıktı türünü belirler, bu durumda bir uygulama (Exe) -->
     <OutputType>Exe</OutputType>
     <!-- Hedef framework, uygulamanın hangi .NET sürümüne uygun olduğunu belirtir -->
-    <TargetFramework>netcoreapp8.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
   
   <!-- C# dilinin sürümünü ve tehlikeli kod bloklarının kullanımına izin verme ayarları -->
