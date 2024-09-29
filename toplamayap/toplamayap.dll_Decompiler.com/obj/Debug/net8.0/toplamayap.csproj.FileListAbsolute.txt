@@ -1,0 +1,2 @@
+/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/obj/Debug/net8.0/toplamayap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremyilmaz/Desktop/Staj/toplamayap/toplamayap.dll_Decompiler.com/obj/Debug/net8.0/toplamayap.csproj.CoreCompileInputs.cache
